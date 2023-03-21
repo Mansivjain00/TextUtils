@@ -1,0 +1,5 @@
+Idea: Navigation of pages with reloading the entire application, and modifying only the required components.
+
+React Router DOM installation
+>npm install react-router-dom
+
